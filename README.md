@@ -1,6 +1,7 @@
 # NMA2020_Steinmetz_RL_decision
 This package uses the Steinmetz dataset to study decision making that involves trial history information.
 
+# 2020-07-20
 ## Contents
 * load_data.py
    * Loads the Steinmetz dataset
@@ -14,3 +15,9 @@ This package uses the Steinmetz dataset to study decision making that involves t
     * call functions in `plottings` to visualize neural activity as a function of V_L/V_R and P_L/P_R
     * call functions in `encoding_model` to build, fit and cross-validate encoding models with or without VL/VR
 
+# 2020-07-22
+Switched a project.
+## Contents:
+* load_data.py
+* GPFA_synthetic_data.py
+* GPFA_caller.ipynb
